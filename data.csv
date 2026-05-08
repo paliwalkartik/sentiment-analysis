@@ -1,0 +1,9 @@
+Text,Sentiment
+"I love this product, it is amazing!",Positive
+"This is the worst service ever.",Negative
+"Absolutely fantastic experience.",Positive
+"Terrible, I hate it.",Negative
+"Highly recommended, very good.",Positive
+"Do not buy this, it is garbage.",Negative
+"It was okay, not great but fine.",Positive
+"Waste of money and time.",Negative
